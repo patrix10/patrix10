@@ -33,6 +33,6 @@ src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrix10&show_icons=true&locale=en&layout=compact" alt="patrix10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrix10&show_icons=true&locale=en" alt="patrix10" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=patrix10&show_icons=true&locale=en" alt="patrix10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrix10&" alt="patrix10" /></p>
